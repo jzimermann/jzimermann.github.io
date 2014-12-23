@@ -30,9 +30,11 @@ Estimule o seu time a propor ações para as situações não tão boas detectad
 ###Seja um agregador###
 Não tente criar um clima de “caça às bruxas” por problemas encontrados pelo time. Tenha em mente e deixe claro para o time que o objetivo daquele momento é tentar identificar e não repetir os problemas que eventualmente ocorreram. Seja um agregador e tente estimular um clima de resiliência para os membros da sua equipe.
 
-Para você que está começando e quer estudar mais sobre o tema, recomendo o material contido aqui. E se você quiser fazer a sua retrospectiva de uma maneira diferente e mais divertida, existe este ótimo material dos ThoughtWorkers Paulo Caroli e Tainã Caetano.
+Para você que está começando e quer estudar mais sobre o tema, recomendo o material contido [aqui]. E se você quiser fazer a sua retrospectiva de uma maneira diferente e mais divertida, existe [este] ótimo material dos ThoughtWorkers Paulo Caroli e Tainã Caetano.
 
 Por último, o ciclo de melhoria vale para você também! Aproveite para colher feedbacks sobre seu desempenho como facilitador no fim da cerimônia. Tenha em mente que você também pode evoluir como facilitador e certamente o seu time irá contribuir (e muito) para isto.
 
 [artigo]: http://www.thoughtworks.com/pt/insights/blog/5-things-you-need-know-facilitate-retrospective
 [ThoughtWorks]: https://thoughtworks.com
+[aqui]: http://www.retrospectives.com/pages/retroPrimeDirective.html
+[este]: http://www.funretrospectives.com/
