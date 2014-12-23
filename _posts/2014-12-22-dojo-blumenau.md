@@ -21,6 +21,8 @@ Também aproveitamos para começar a entender como funciona o [Arquilian] e como
 
 No final da sessão tive a impressão que os participantes absorveram muito conhecimento. E mais do que isso, enxergaram valor nas práticas que exercitamos no Dojo. Para os desenvolvedores da região, acredito que foi um grande passo na utilização de boas práticas de desenvolvimento de software.
 
+Por fim, espero que essa iniciativa tenha contribuído para que a comunidade de desenvolvimento de software de Blumenau comece a se mobilizar para estudar novas práticas, técnicas e linguagens. É notória a formação de desenvolvedores qualificados que surgem na cidade. O desafio para essas pessoas é se conectar para fomentar uma comunidade forte e que compartilhe conhecimentos e experiências entre si.
+
 [Dojo]: http://pt.wikipedia.org/wiki/Dojo
 [Dynamix]: http://www.dynamix.com.br/2012/index.jsp?p=home
 [Arquilian]: http://arquillian.org/
