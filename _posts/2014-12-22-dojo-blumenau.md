@@ -17,7 +17,7 @@ A nossa sessão durou quase duas horas e foi bem didática. O problema do Dojo q
 
 Foi uma ótima oportunidade para mostrar como aplicamos o ciclo de TDD nos nossos projetos na ThoughtWorks. Apesar de a maioria não trabalhar utilizando esta prática nos seus projetos, percebi que todos entenderam o conceito e já estavam aptos a aplicarem a técnica durante a sessão. Ponto para os participantes!
 
-![Galera empolgada com o Dojo]({{ site.url }}/assets/images/dojo-blumenau.JPG)
+![Galera empolgada com o Dojo]({{ site.url }}assets/images/dojo-blumenau.JPG)
 
 Também aproveitamos para começar a entender como funciona o [Arquilian] e como integramos com o [Selenium]. Devido ao tempo limitado, somente começamos algumas discussões e não finalizamos a implementação do problema. 
 
