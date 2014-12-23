@@ -15,19 +15,19 @@ Para que uma retrospectiva seja bem sucedida, é importante que o facilitador de
 
 Tendo em mente o papel do facilitador, listei cinco dicas que considero importantes para alguém que precisará facilitar uma retrospectiva, mas talvez não tenha muita experiência nisso:
 
-##Seja transparente##
+###Seja transparente####
 O facilitador, já no início de cada cerimônia, deve deixar claro para o time que aquele é o momento para se fazer um balanço do que deu certo e não tão certo no último ciclo do time. Reforçar isso em todas as sessões pode parecer exagero, mas é só assim que você vai garantir qual a intenção daquela reunião. Manter e garantir que o time esteja à vontade e aberto para falar sobre esses pontos é primordial para o sucesso da retrospectiva.
 
-##Foque no objetivo da retrospectiva##
+###Foque no objetivo da retrospectiva##
 O facilitador deve guiar o time para que se descubra os fatos importantes que ocorreram na iteração. Deixe isso claro. Conduzir esta inspeção é um dos papeis do facilitador junto ao time.
 
-##Ouça o seu time##
+###Ouça o seu time###
 Permita ao seu time falar o que ocorreu. Tentar não interromper a linha de raciocínio de quem fala é uma dica valiosa para que você não demonstre algum tipo de falta de sensibilidade ou importância para quem fala. Procure também anotar pontos relevantes levantados pelo time. Isto demonstrará que você está do lado do seu time.
 
-##Aja##
+###Aja###
 Estimule o seu time a propor ações para as situações não tão boas detectadas durante a iteração. Mostrar para o time que os obstáculos devem ser resolvidos de maneira coletiva é essencial para manter o time unido e focado no resultado final do projeto. Aqui vale a sugestão de sugerir que alguém do time assuma a condução da ação junto ao time, sendo o responsável por aquela ação.
 
-##Seja um agregador##
+###Seja um agregador###
 Não tente criar um clima de “caça às bruxas” por problemas encontrados pelo time. Tenha em mente e deixe claro para o time que o objetivo daquele momento é tentar identificar e não repetir os problemas que eventualmente ocorreram. Seja um agregador e tente estimular um clima de resiliência para os membros da sua equipe.
 
 Para você que está começando e quer estudar mais sobre o tema, recomendo o material contido aqui. E se você quiser fazer a sua retrospectiva de uma maneira diferente e mais divertida, existe este ótimo material dos ThoughtWorkers Paulo Caroli e Tainã Caetano.
