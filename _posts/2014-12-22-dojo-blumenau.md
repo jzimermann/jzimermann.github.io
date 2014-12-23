@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dojo em Blumenau: a comunidade se movimentando!
+title: Dojo em Blumenau!
 ---
 
 Férias, Santa Catarina, litoral, praia... certo? Não é bem por aí. Para quem é desenvolvedor e gosta de compartilhar conhecimento com outras pessoas, sempre há um momento em que é possível trocar experiências e conhecer algo novo. Dessa vez não foi diferente.
