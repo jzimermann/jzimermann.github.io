@@ -25,6 +25,8 @@ No final da sessão tive a impressão que os participantes absorveram muito conh
 
 Por fim, espero que essa iniciativa tenha contribuído para que a comunidade de desenvolvimento de software de Blumenau comece a se mobilizar para estudar novas práticas, técnicas e linguagens. É notória a formação de desenvolvedores qualificados que surgem na cidade. O desafio para essas pessoas é se conectar para fomentar uma comunidade forte e que compartilhe conhecimentos e experiências entre si.
 
+*(+) Gostaria de agradecer ao pessoal da [Dynamix], especialmente o Charles e Claumir, por terem nos ajudado liberando o espaço da empresa para fazermos o Dojo.*
+
 [Dojo]: http://pt.wikipedia.org/wiki/Dojo
 [Dynamix]: http://www.dynamix.com.br/2012/index.jsp?p=home
 [Arquilian]: http://arquillian.org/
