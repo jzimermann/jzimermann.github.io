@@ -9,7 +9,7 @@ Como parte das minhas férias da ThoughtWorks, vim para Blumenau (SC) passar o N
 
 Nesta última segunda-feira (22) realizamos o Dojo e tivemos cinco participantes. A ideia central era discutir e ter uma perspectiva de testes, principalmente do ciclo de TDD e testes de integração e a partir disso, como aplicar estas técnicas no cotidiano de quem desenvolve software.
 
-Para muitos essa já é uma questão vencida. Muitas empresas na região de Blumenau já começaram a dar os primeiros passos na automação de testes e também na melhoria contínua dos seus processos para que, cada vez mais, os desenvolvedores também olhem para a qualidade do projeto/projeto. 
+Para muitos essa já é uma questão vencida. Muitas empresas na região de Blumenau já começaram a dar os primeiros passos na automação de testes e também na melhoria contínua dos seus processos para que, cada vez mais, os desenvolvedores também olhem para a qualidade do projeto/produto. 
 
 Entretanto, é ainda perceptível que, culturalmente, o desenvolvedor tem a visão que ele não deve se preocupar com qualidade. Para muitos, prevalece a visão de que deve existir uma pessoa específica no time que será responsável por testar as tarefas de um projeto. E que isso será feito manualmente. A maior parte destes traços vem de uma cultura antiga de desenvolvimento de software, que iniciou nos anos 70 e que fizeram muitas empresas da região prosperarem.
 
