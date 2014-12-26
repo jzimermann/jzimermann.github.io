@@ -5,7 +5,7 @@ title: Dojo em Blumenau!
 
 Férias, Santa Catarina, litoral, praia... certo? Não é bem por aí. Para quem é desenvolvedor e gosta de compartilhar conhecimento com outras pessoas, sempre há um momento em que é possível trocar experiências e conhecer algo novo. Dessa vez não foi diferente.
 
-Como parte das minhas férias da ThoughtWorks, vim para Blumenau (SC) passar o Natal com a minha família.  Nesse período aproveitei para conversar com colegas antigos de trabalho e trocar experiências sobre este último ano. Deste papo surgiu a ideia de organizarmos um [Dojo] com o pessoal que trabalha na [Dynamix], onde trabalhei por quatro anos, antes de me mudar para Porto Alegre.
+Como parte das minhas férias da ThoughtWorks, vim para Blumenau (SC) passar o Natal com a minha família.  Nesse período aproveitei para conversar com colegas antigos de trabalho e trocar experiências sobre este último ano. Deste papo surgiu a ideia de organizarmos um [Dojo] com o pessoal que trabalha na [Dynamix], onde trabalhei por quatro anos antes de me mudar para Porto Alegre.
 
 Nesta última segunda-feira (22) realizamos o Dojo e tivemos cinco participantes. A ideia central era discutir e ter uma perspectiva de testes, principalmente do ciclo de TDD e testes de integração e a partir disso, como aplicar estas técnicas no cotidiano de quem desenvolve software.
 
